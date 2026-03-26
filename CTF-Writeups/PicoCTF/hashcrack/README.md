@@ -11,14 +11,19 @@ We were given the server to access.
 When access, I get the first hash value.
 
 To decode this hash value, I identified it first and used MD5 to decode it. 
-(You can use this [website](https://www.dcode.fr/hash-identifier) to identify the hash value and this [website](https://www.dcode.fr/hash-identifier) to decode.)
+([website](https://www.dcode.fr/hash-identifier): identify the hash value
+ [website](): decode MD5.)
 
-After entering the first plain text, I get the second hash value. 
-To decode this hash value, I identified and used SHA-1 to decode it. 
+![preview](images/hash1.png)
 
-I get the third hash value. I used SHA-256 to decode it and get the flag inside.
+After entering the password, I get the second hash value. 
+To decode this hash value, I identified and used SHA-1 to decode it. (Recommended [website](https://www.dcode.fr/sha1-hash))
 
-![preview](images/preview.png)
+![preview](images/hash2.png)
+
+I get the third hash value. I used SHA-256 to decode it and get the flag inside.(Recommended [website](https://www.dcode.fr/sha256-hash))
+
+![preview](images/hash3.png)
 
 ```
 picoCTF{UseStr0nG_h@shEs_&PaSswDs!_5b836723}
