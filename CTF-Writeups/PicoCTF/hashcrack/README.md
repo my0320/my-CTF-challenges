@@ -7,7 +7,7 @@ We were given the server to access: nc verbal-sleep.picoctf.net 52485
 
 ![preview](images/title.png) 
 
-## How to Solve?
+## How to Solve
 1. When access, I get the first hash value. To decode this hash value, I identified it first and used MD5 to decode it. 
 
 (Recommended [website](https://www.dcode.fr/hash-identifier): identify the hash value; Recommended [website](https://www.dcode.fr/md5-hash): decode MD5.)
