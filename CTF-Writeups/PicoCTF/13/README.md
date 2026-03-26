@@ -15,7 +15,7 @@ We were given the encoding text: cvpbPGS{abg\_gbb\_onq\_bs\_n\_ceboyrz} and the 
 ![preview](images/preview.png)
 
 ```
-picoCTF{not\_too\_bad\_of\_a\_problem}
+picoCTF{not_too_bad_of_a_problem}
 ```
 
 
