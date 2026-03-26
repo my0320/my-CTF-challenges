@@ -10,7 +10,7 @@ We were given the encoding text: cvpbPGS{abg\_gbb\_onq\_bs\_n\_ceboyrz} and the 
 
 1. I used ROT13 Brute Force to decode the text and the flag is shown.
 
-(Recommended Website: [CyberChef](https://gchq.github.io/CyberChef/#recipe=ROT13_Brute_Force(true,true,false,100,0,true,'')))
+(Recommended Tool: [CyberChef](https://gchq.github.io/CyberChef/#recipe=ROT13_Brute_Force(true,true,false,100,0,true,'')))
 
 ![preview](images/preview.png)
 
