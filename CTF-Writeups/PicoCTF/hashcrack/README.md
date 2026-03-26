@@ -9,8 +9,7 @@ We were given the server to access.
 
 ## How to Solve?
 1. When access, I get the first hash value. To decode this hash value, I identified it first and used MD5 to decode it. 
-([website](https://www.dcode.fr/hash-identifier): identify the hash value
- [website](https://www.dcode.fr/md5-hash): decode MD5.)
+(Recommended [website](https://www.dcode.fr/hash-identifier): identify the hash value; Recommended [website](https://www.dcode.fr/md5-hash): decode MD5.)
 
 ![preview](images/hash1.png)
 
