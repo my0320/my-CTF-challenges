@@ -1,16 +1,14 @@
 # hashcrack
 
-##### A company stored a secret message on a server which got breached due to the admin using weakly hashed passwords. Can you gain access to the secret stored within the server?
+> A company stored a secret message on a server which got breached due to the admin using weakly hashed passwords. Can you gain access to the secret stored within the server?
 
 
 
 
-
-### About The Challenge
+## About The Challenge
 
 We were given the server to access
-
-pic1
+![preview](images/preview.png)
 
 
 
