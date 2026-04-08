@@ -21,6 +21,6 @@ We were given a text file. Use kali command "cat" to see the content.
 
 ```
 
-# picoCTF{next\_time\_I'll\_try\_2\_rounds\_of\_rot13\_45559abd}
+picoCTF{next\_time\_I'll\_try\_2\_rounds\_of\_rot13\_45559abd}
 
 ``` 
