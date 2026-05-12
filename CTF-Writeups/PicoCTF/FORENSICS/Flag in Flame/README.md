@@ -1,7 +1,7 @@
 # Flag in Flame
 
 > The SOC team discovered a suspiciously large log file after a recent breach. When they opened it, they found an enormous block of encoded text instead of typical logs. Could there be something hidden within? Your mission is to inspect the resulting file and reveal the real purpose of it. The team is relying on your skills to uncover any concealed information within this unusual log.
-Download the encoded data here: ![Logs Data](SourceFile/logs.txt). Be prepared—the file is large, and examining it thoroughly is crucial.
+Download the encoded data here: [Logs Data](https://challenge-files.picoctf.net/c_amiable_citadel/929daf6ef01bba32b165e0a7c649ff4c953f2af21c28b024e8af5276b7716de5/logs.txt). Be prepared—the file is large, and examining it thoroughly is crucial.
 
 ## About The Challenge
 
@@ -21,10 +21,10 @@ We were given a Logs.txt file. Download and open it. There are a large amount ba
 
 ![preview](Images/preview3.png)
 
-4. Open this image, we can get a value: 7069636F4354467B666F72656E736963735F616E616C797369735F69735F616D617A696E675F65633139383466637D
+3. Open this image, we can get a value: 7069636F4354467B666F72656E736963735F616E616C797369735F69735F616D617A696E675F65633139383466637D
 ![preview](Images/preview4.png)
 
-5. This value has uppercase and number 0-9. It might be hex value. I decode it and get the flag.
+4. This value has uppercase and number 0-9. It might be hex value. I decode it and get the flag.
 
 ![flag](Images/Flag.png)
 
