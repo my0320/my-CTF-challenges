@@ -8,6 +8,7 @@ We were given a zip file 'unknown.zip'.
 
 ## Used Tools
 [StegOnline](https://georgeom.net/StegOnline/upload)
+
 [CyberChef](https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false))
 
 ## How To Solve
